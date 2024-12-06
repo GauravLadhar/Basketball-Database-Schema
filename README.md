@@ -6,7 +6,7 @@ The basketball RDBMS consists of interconnected tables with primary keys, foreig
 
 The goal of the project is to design and implement a robust basketball database that enables users to efficiently view and analyze player and team performance. By leveraging phpMyAdmin, the database was structured to handle complex relationships between players, teams, games, and statistics, ensuring data integrity and organization. The system provides insightful views and queries, allowing users to extract detailed metrics and make informed decisions regarding team and player management.
 
-Finally, I created an Enhanced Entity-Relationship (EER) diagram to visually represent the database structure, including tables, relationships, and constraints, ensuring clarity in design and facilitating effective database implementation.
+Finally, I created an Enhanced Entity-Relationship (EER) diagram using MySQL Workbench to help visually represent the database structure, including tables, relationships, and constraints, ensuring clarity in design and facilitating effective database implementation.
 
 <ins>Tools Used<ins>
 - MySQL
